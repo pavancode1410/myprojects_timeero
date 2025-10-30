@@ -1,0 +1,14 @@
+{
+  "name": "tsheets-timeero-sync",
+  "version": "1.0.0",
+  "description": "API synchronization script from QuickBooks Time (TSheets) to Timeero.",
+  "main": "sync.js",
+  "scripts": {
+    "sync": "node sync.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
